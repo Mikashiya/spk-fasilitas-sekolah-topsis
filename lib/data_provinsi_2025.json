@@ -1,0 +1,270 @@
+{
+    "dp2025": {
+        "1": {
+            "nama_provinsi": "ACEH",
+            "c1_aba": 1.08,
+            "c2_apm": 70.36,
+            "c3_aps": 80.94,
+            "c4_jdbs": 959
+        },
+        "2": {
+            "nama_provinsi": "SUMATERA UTARA",
+            "c1_aba": 0.99,
+            "c2_apm": 70.4,
+            "c3_aps": 77.51,
+            "c4_jdbs": 1873
+        },
+        "3": {
+            "nama_provinsi": "SUMATERA BARAT",
+            "c1_aba": 0.92,
+            "c2_apm": 71.57,
+            "c3_aps": 85.04,
+            "c4_jdbs": 609
+        },
+        "4": {
+            "nama_provinsi": "RIAU",
+            "c1_aba": 1.0,
+            "c2_apm": 65.22,
+            "c3_aps": 77.42,
+            "c4_jdbs": 903
+        },
+        "5": {
+            "nama_provinsi": "JAMBI",
+            "c1_aba": 2.41,
+            "c2_apm": 63.05,
+            "c3_aps": 74.39,
+            "c4_jdbs": 565
+        },
+        "6": {
+            "nama_provinsi": "SUMATERA SELATAN",
+            "c1_aba": 1.11,
+            "c2_apm": 63.08,
+            "c3_aps": 73.78,
+            "c4_jdbs": 1000
+        },
+        "7": {
+            "nama_provinsi": "BENGKULU",
+            "c1_aba": 2.2,
+            "c2_apm": 69.32,
+            "c3_aps": 80.48,
+            "c4_jdbs": 296
+        },
+        "8": {
+            "nama_provinsi": "LAMPUNG",
+            "c1_aba": 2.17,
+            "c2_apm": 67.22,
+            "c3_aps": 75.35,
+            "c4_jdbs": 1111
+        },
+        "9": {
+            "nama_provinsi": "KEP. BANGKA BELITUNG",
+            "c1_aba": 1.8,
+            "c2_apm": 65.94,
+            "c3_aps": 76.03,
+            "c4_jdbs": 137
+        },
+        "10": {
+            "nama_provinsi": "KEP. RIAU",
+            "c1_aba": 0.54,
+            "c2_apm": 76.54,
+            "c3_aps": 88.24,
+            "c4_jdbs": 198
+        },
+        "11": {
+            "nama_provinsi": "DKI JAKARTA",
+            "c1_aba": 0.29,
+            "c2_apm": 69.9,
+            "c3_aps": 88.22,
+            "c4_jdbs": 428
+        },
+        "12": {
+            "nama_provinsi": "JAWA BARAT",
+            "c1_aba": 1.1,
+            "c2_apm": 67.33,
+            "c3_aps": 75.8,
+            "c4_jdbs": 4306
+        },
+        "13": {
+            "nama_provinsi": "JAWA TENGAH",
+            "c1_aba": 4.8,
+            "c2_apm": 67.81,
+            "c3_aps": 77.97,
+            "c4_jdbs": 2562
+        },
+        "14": {
+            "nama_provinsi": "DI YOGYAKARTA",
+            "c1_aba": 4.07,
+            "c2_apm": 78.42,
+            "c3_aps": 93.03,
+            "c4_jdbs": 289
+        },
+        "15": {
+            "nama_provinsi": "JAWA TIMUR",
+            "c1_aba": 5.15,
+            "c2_apm": 70.64,
+            "c3_aps": 80.96,
+            "c4_jdbs": 4318
+        },
+        "16": {
+            "nama_provinsi": "BANTEN",
+            "c1_aba": 1.0,
+            "c2_apm": 65.28,
+            "c3_aps": 73.84,
+            "c4_jdbs": 1252
+        },
+        "17": {
+            "nama_provinsi": "BALI",
+            "c1_aba": 3.58,
+            "c2_apm": 76.06,
+            "c3_aps": 90.68,
+            "c4_jdbs": 272
+        },
+        "18": {
+            "nama_provinsi": "NUSA TENGGARA BARAT",
+            "c1_aba": 8.93,
+            "c2_apm": 70.43,
+            "c3_aps": 79.21,
+            "c4_jdbs": 889
+        },
+        "19": {
+            "nama_provinsi": "NUSA TENGGARA TIMUR",
+            "c1_aba": 4.08,
+            "c2_apm": 62.88,
+            "c3_aps": 76.65,
+            "c4_jdbs": 1033
+        },
+        "20": {
+            "nama_provinsi": "KALIMANTAN BARAT",
+            "c1_aba": 3.91,
+            "c2_apm": 57.6,
+            "c3_aps": 70.95,
+            "c4_jdbs": 631
+        },
+        "21": {
+            "nama_provinsi": "KALIMANTAN TENGAH",
+            "c1_aba": 0.82,
+            "c2_apm": 63.31,
+            "c3_aps": 70.76,
+            "c4_jdbs": 404
+        },
+        "22": {
+            "nama_provinsi": "KALIMANTAN SELATAN",
+            "c1_aba": 2.18,
+            "c2_apm": 59.77,
+            "c3_aps": 75.16,
+            "c4_jdbs": 442
+        },
+        "23": {
+            "nama_provinsi": "KALIMANTAN TIMUR",
+            "c1_aba": 1.04,
+            "c2_apm": 73.96,
+            "c3_aps": 84.15,
+            "c4_jdbs": 404
+        },
+        "24": {
+            "nama_provinsi": "KALIMANTAN UTARA",
+            "c1_aba": 1.86,
+            "c2_apm": 73.13,
+            "c3_aps": 81.93,
+            "c4_jdbs": 93
+        },
+        "25": {
+            "nama_provinsi": "SULAWESI UTARA",
+            "c1_aba": 0.2,
+            "c2_apm": 61.26,
+            "c3_aps": 71.45,
+            "c4_jdbs": 430
+        },
+        "26": {
+            "nama_provinsi": "SULAWESI TENGAH",
+            "c1_aba": 1.61,
+            "c2_apm": 68.68,
+            "c3_aps": 75.36,
+            "c4_jdbs": 513
+        },
+        "27": {
+            "nama_provinsi": "SULAWESI SELATAN",
+            "c1_aba": 4.95,
+            "c2_apm": 68.1,
+            "c3_aps": 75.94,
+            "c4_jdbs": 1175
+        },
+        "28": {
+            "nama_provinsi": "SULAWESI TENGGARA",
+            "c1_aba": 2.78,
+            "c2_apm": 63.31,
+            "c3_aps": 79.58,
+            "c4_jdbs": 569
+        },
+        "29": {
+            "nama_provinsi": "GORONTALO",
+            "c1_aba": 1.46,
+            "c2_apm": 64.63,
+            "c3_aps": 72.0,
+            "c4_jdbs": 165
+        },
+        "30": {
+            "nama_provinsi": "SULAWESI BARAT",
+            "c1_aba": 4.38,
+            "c2_apm": 60.89,
+            "c3_aps": 73.22,
+            "c4_jdbs": 284
+        },
+        "31": {
+            "nama_provinsi": "MALUKU",
+            "c1_aba": 0.65,
+            "c2_apm": 66.29,
+            "c3_aps": 77.28,
+            "c4_jdbs": 380
+        },
+        "32": {
+            "nama_provinsi": "MALUKU UTARA",
+            "c1_aba": 1.14,
+            "c2_apm": 62.32,
+            "c3_aps": 79.62,
+            "c4_jdbs": 444
+        },
+        "33": {
+            "nama_provinsi": "PAPUA BARAT",
+            "c1_aba": 2.04,
+            "c2_apm": 57.63,
+            "c3_aps": 77.53,
+            "c4_jdbs": 79
+        },
+        "34": {
+            "nama_provinsi": "PAPUA BARAT DAYA",
+            "c1_aba": 1.42,
+            "c2_apm": 58.71,
+            "c3_aps": 81.7,
+            "c4_jdbs": 117
+        },
+        "35": {
+            "nama_provinsi": "PAPUA",
+            "c1_aba": 1.61,
+            "c2_apm": 56.13,
+            "c3_aps": 81.78,
+            "c4_jdbs": 154
+        },
+        "36": {
+            "nama_provinsi": "PAPUA SELATAN",
+            "c1_aba": 4.73,
+            "c2_apm": 45.48,
+            "c3_aps": 66.97,
+            "c4_jdbs": 62
+        },
+        "37": {
+            "nama_provinsi": "PAPUA TENGAH",
+            "c1_aba": 14.18,
+            "c2_apm": 35.59,
+            "c3_aps": 44.61,
+            "c4_jdbs": 79
+        },
+        "38": {
+            "nama_provinsi": "PAPUA PEGUNUNGAN",
+            "c1_aba": 31.68,
+            "c2_apm": 39.87,
+            "c3_aps": 50.79,
+            "c4_jdbs": 66
+        }
+    }
+}

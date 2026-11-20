@@ -1,0 +1,40 @@
+{
+    "dk2025": {
+        "1": {
+            "id_kriteria": "C1",
+            "nama_kriteria": "Angka Buta Aksara",
+            "singkatan_kriteria": "ABA",
+            "tipe_kriteria": "Benefit",
+            "bobot_kriteria": 0.3,
+            "deskripsi_kriteria": "Angka Buta Aksara merupakan kumpulan data yang berisi persentase banyaknya penduduk, yang masih tidak bisa membaca/menulis/berhitung menggunakan aksara/angka dasar dalam suatu provinsi. Data yang dipakai adalah data penduduk umur 15 tahun keatas.",
+            "sumber_kriteria": "BPS (Badan Pusat Statistik)"
+        },
+        "2": {
+            "id_kriteria": "C2",
+            "nama_kriteria": "Angka Partisipasi Murni",
+            "singkatan_kriteria": "APM",
+            "tipe_kriteria": "Cost",
+            "bobot_kriteria": 0.25,
+            "deskripsi_kriteria": "Angka Partisipasi Murni merupakan kumpulan data yang berisi persentase banyaknya penduduk, yang berpartisipasi mengikuti kegiatan sekolah berdasarkan jenjang pendidikan dalam suatu provinsi. Data yang dipakai adalah data jenjang pendidikan SM/sederajat (SMA/K).",
+            "sumber_kriteria": "BPS (Badan Pusat Statistik)"
+        },
+        "3": {
+            "id_kriteria": "C3",
+            "nama_kriteria": "Angka Partisipasi Sekolah",
+            "singkatan_kriteria": "APS",
+            "tipe_kriteria": "Cost",
+            "bobot_kriteria": 0.25,
+            "deskripsi_kriteria": "Angka Partisipasi Sekolah merupakan kumpulan data yang berisi persentase banyaknya penduduk, yang berpartisipasi mengikuti kegiatan sekolah berdasarkan rentang umur dalam suatu provinsi. Data yang dipakai adalah data penduduk umur 16-18 tahun.",
+            "sumber_kriteria": "BPS (Badan Pusat Statistik)"
+        },
+        "4": {
+            "id_kriteria": "C4",
+            "nama_kriteria": "Jumlah Desa Berfasilitas Sekolah",
+            "singkatan_kriteria": "JDBS",
+            "tipe_kriteria": "Cost",
+            "bobot_kriteria": 0.2,
+            "deskripsi_kriteria": "Jumlah Desa Berfasilitas Sekolah merupakan kumpulan data yang berisi persentase banyaknya desa, yang memiliki fasilitas sekolah dalam suatu provinsi. Data yang dipakai adalah data jenjang pendidikan SM/sederajat (SMA/K).",
+            "sumber_kriteria": "BPS (Badan Pusat Statistik)"
+        }
+    }
+}
